@@ -1,5 +1,6 @@
 # chatgpt_telegram_bot
-simple telegram bot that uses chatgpt api, dont forget to star 🌟 this repo 
+simple telegram bot that uses chatgpt api, dont forget to star 🌟 this repo ! 
+find me on telegram @morethancoder contact @alithedev
 
 ## usage
 
@@ -23,10 +24,10 @@ install required packges
 
 create .env file and add the following variables
 
-    OPENAI_API_KEY
-    TELEGRAM_API_ID
-    TELEGRAM_API_HASH
-    TELEGRAM_BOT_TOKEN
+    OPENAI_API_KEY=<your openai api key>
+    TELEGRAM_API_ID=<your telegram api id>
+    TELEGRAM_API_HASH=<your telegram api hash>
+    TELEGRAM_BOT_TOKEN=<your telegram bot token>
 
 run the bot with the command
 
