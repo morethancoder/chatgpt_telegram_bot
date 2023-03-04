@@ -9,9 +9,15 @@ create python environment
 
 activate the newly created environment
 
-    source "e:/CODE/telegram bots/gpt3turbobot/env/Scripts/activate"
+> windows   
 
-install reuired packges
+    source "path/to/env/Scripts/activate"
+
+> unix 
+
+    source ./env/bin/activate
+
+install required packges
 
     pip install -r requirements.txt
 
